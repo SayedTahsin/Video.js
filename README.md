@@ -44,5 +44,12 @@ onBeforeUnmount(() => {
 
 ```
 
+To Run Locally
+```bash
+git clone git@github.com:SayedTahsin/Video.js.git
+cd Video.js
+npm i
+npm run dev
+```
 
 
