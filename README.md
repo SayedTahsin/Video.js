@@ -1,5 +1,5 @@
 # https://videojs.com/
-- Video.js Skip Designer : https://codepen.io/heff/pen/DyoMvJ
+- Video.js Skin Designer : https://codepen.io/heff/pen/DyoMvJ
 - Video.js plugins: https://videojs.com/plugins
 
 - How it use it in vue.js
